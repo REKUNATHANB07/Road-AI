@@ -1,0 +1,7 @@
+{
+  "name": "RoadAI - Road Damage Detection & Repair Priority",
+  "description": "Prototype AI-assisted road surface damage detection and repair prioritization decision-support system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
